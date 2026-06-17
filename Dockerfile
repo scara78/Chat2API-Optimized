@@ -1,4 +1,4 @@
-FROM jlesage/baseimage-gui:debian-bookworm-v4.11.3
+FROM jlesage/baseimage-gui:alpine-3.19-v4
 
 ARG VERSION=1.2.0
 
